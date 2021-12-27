@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. RecursiveArraySum", "01. RecursiveArraySum\01. RecursiveArraySum.csproj", "{22A18B86-C68E-4D06-A99F-B8B5E58E3FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. RecursiveDrawing", "02. RecursiveDrawing\02. RecursiveDrawing.csproj", "{1FEB0074-C840-468B-A0AF-D29D71A5C9DB}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A18B86-C68E-4D06-A99F-B8B5E58E3FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A18B86-C68E-4D06-A99F-B8B5E58E3FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A18B86-C68E-4D06-A99F-B8B5E58E3FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A18B86-C68E-4D06-A99F-B8B5E58E3FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEB0074-C840-468B-A0AF-D29D71A5C9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEB0074-C840-468B-A0AF-D29D71A5C9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEB0074-C840-468B-A0AF-D29D71A5C9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEB0074-C840-468B-A0AF-D29D71A5C9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
