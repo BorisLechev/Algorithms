@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. RecursiveFactorial", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. FindAllPathsInLabyrinth", "05. FindAllPathsInLabyrinth\05. FindAllPathsInLabyrinth.csproj", "{7269A9A0-6997-455B-AA1F-710FBDAC8A76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. 8QuennsPuzzle", "06. 8QuennsPuzzle\06. 8QuennsPuzzle.csproj", "{D11CE66A-8BF4-4E1F-B6EF-E3D4AB94E2E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7269A9A0-6997-455B-AA1F-710FBDAC8A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7269A9A0-6997-455B-AA1F-710FBDAC8A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7269A9A0-6997-455B-AA1F-710FBDAC8A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11CE66A-8BF4-4E1F-B6EF-E3D4AB94E2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11CE66A-8BF4-4E1F-B6EF-E3D4AB94E2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11CE66A-8BF4-4E1F-B6EF-E3D4AB94E2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11CE66A-8BF4-4E1F-B6EF-E3D4AB94E2E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
