@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace _01._1._PermutationsWithoutRepetitions
+namespace _01._PermutationsWithoutRepetitions
 {
     public class Program
     {
@@ -14,6 +14,7 @@ namespace _01._1._PermutationsWithoutRepetitions
             inputElements = Console.ReadLine()
                         .Split(" ", StringSplitOptions.RemoveEmptyEntries)
                         .ToArray();
+
             permutations = new string[inputElements.Length];
             usedElements = new bool[inputElements.Length];
 
