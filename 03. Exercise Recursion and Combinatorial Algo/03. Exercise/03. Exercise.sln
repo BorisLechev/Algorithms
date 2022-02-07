@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ReverseArrayWithoutRecursionOne", "01. ReverseArrayWithoutRecursionOne\01. ReverseArrayWithoutRecursionOne.csproj", "{8C14B272-F825-43EC-BF71-A5E122B3CB20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ReverseArrayWithoutRecursionTwo", "01. ReverseArrayWithoutRecursionTwo\01. ReverseArrayWithoutRecursionTwo.csproj", "{D1DDA483-2A44-4E5E-82DE-6632BB2B5E3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ReverseArray", "01. ReverseArray\01. ReverseArray.csproj", "{6937F2E6-97C0-4B17-AAC8-3434C992E6CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8C14B272-F825-43EC-BF71-A5E122B3CB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C14B272-F825-43EC-BF71-A5E122B3CB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C14B272-F825-43EC-BF71-A5E122B3CB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1DDA483-2A44-4E5E-82DE-6632BB2B5E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DDA483-2A44-4E5E-82DE-6632BB2B5E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DDA483-2A44-4E5E-82DE-6632BB2B5E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DDA483-2A44-4E5E-82DE-6632BB2B5E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6937F2E6-97C0-4B17-AAC8-3434C992E6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6937F2E6-97C0-4B17-AAC8-3434C992E6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6937F2E6-97C0-4B17-AAC8-3434C992E6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6937F2E6-97C0-4B17-AAC8-3434C992E6CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
