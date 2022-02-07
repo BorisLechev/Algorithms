@@ -20,7 +20,7 @@ namespace _01._ReverseArrayWithoutRecursionOne
                 SwapElements(left, right);
             }
 
-            Console.WriteLine(String.Join(" ", array));
+            Console.WriteLine(string.Join(" ", array));
         }
 
         private static void SwapElements(int firstIndex, int secondIndex)
