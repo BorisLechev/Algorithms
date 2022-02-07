@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ReverseArrayWithoutRecu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ReverseArray", "01. ReverseArray\01. ReverseArray.csproj", "{6937F2E6-97C0-4B17-AAC8-3434C992E6CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. NestedLoopsToRecursion", "02. NestedLoopsToRecursion\02. NestedLoopsToRecursion.csproj", "{7966987E-2DB5-4870-B944-A90360840FFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6937F2E6-97C0-4B17-AAC8-3434C992E6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6937F2E6-97C0-4B17-AAC8-3434C992E6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6937F2E6-97C0-4B17-AAC8-3434C992E6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7966987E-2DB5-4870-B944-A90360840FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7966987E-2DB5-4870-B944-A90360840FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7966987E-2DB5-4870-B944-A90360840FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7966987E-2DB5-4870-B944-A90360840FFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
