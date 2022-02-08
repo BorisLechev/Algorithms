@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ReverseArrayWithoutRecursionOne", "01. ReverseArrayWithoutRecursionOne\01. ReverseArrayWithoutRecursionOne.csproj", "{8C14B272-F825-43EC-BF71-A5E122B3CB20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. ReverseArrayWithoutRecursionOne", "01. ReverseArrayWithoutRecursionOne\01. ReverseArrayWithoutRecursionOne.csproj", "{8C14B272-F825-43EC-BF71-A5E122B3CB20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ReverseArrayWithoutRecursionTwo", "01. ReverseArrayWithoutRecursionTwo\01. ReverseArrayWithoutRecursionTwo.csproj", "{D1DDA483-2A44-4E5E-82DE-6632BB2B5E3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. ReverseArrayWithoutRecursionTwo", "01. ReverseArrayWithoutRecursionTwo\01. ReverseArrayWithoutRecursionTwo.csproj", "{D1DDA483-2A44-4E5E-82DE-6632BB2B5E3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ReverseArray", "01. ReverseArray\01. ReverseArray.csproj", "{6937F2E6-97C0-4B17-AAC8-3434C992E6CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. ReverseArray", "01. ReverseArray\01. ReverseArray.csproj", "{6937F2E6-97C0-4B17-AAC8-3434C992E6CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. NestedLoopsToRecursion", "02. NestedLoopsToRecursion\02. NestedLoopsToRecursion.csproj", "{7966987E-2DB5-4870-B944-A90360840FFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. NestedLoopsToRecursion", "02. NestedLoopsToRecursion\02. NestedLoopsToRecursion.csproj", "{7966987E-2DB5-4870-B944-A90360840FFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. CombinationsWithRepetition", "03. CombinationsWithRepetition\03. CombinationsWithRepetition.csproj", "{1FA655F1-4800-4C72-9213-E75381E4FC8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. CombinationsWithRepetition", "03. CombinationsWithRepetition\03. CombinationsWithRepetition.csproj", "{1FA655F1-4800-4C72-9213-E75381E4FC8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. CombinationsWithoutRepetition", "04. CombinationsWithoutRepetition\04. CombinationsWithoutRepetition.csproj", "{791508AA-CF3C-4B0A-9A29-09E1CAB74D8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. CombinationsWithoutRepetition", "04. CombinationsWithoutRepetition\04. CombinationsWithoutRepetition.csproj", "{791508AA-CF3C-4B0A-9A29-09E1CAB74D8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. ConectedAreasInaMatrix", "05. ConectedAreasInaMatrix\05. ConectedAreasInaMatrix.csproj", "{B22391A1-5DB8-450A-A736-F0D5091B3838}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. ConectedAreasInaMatrix", "05. ConectedAreasInaMatrix\05. ConectedAreasInaMatrix.csproj", "{B22391A1-5DB8-450A-A736-F0D5091B3838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Cinema", "06. Cinema\06. Cinema.csproj", "{436FF589-031E-4097-837D-5320CC861FBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{B22391A1-5DB8-450A-A736-F0D5091B3838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B22391A1-5DB8-450A-A736-F0D5091B3838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B22391A1-5DB8-450A-A736-F0D5091B3838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436FF589-031E-4097-837D-5320CC861FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436FF589-031E-4097-837D-5320CC861FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436FF589-031E-4097-837D-5320CC861FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436FF589-031E-4097-837D-5320CC861FBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
