@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. ConectedAreasInaMatrix"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Cinema", "06. Cinema\06. Cinema.csproj", "{436FF589-031E-4097-837D-5320CC861FBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. SchoolTeams", "08. SchoolTeams\08. SchoolTeams.csproj", "{33D0197C-358F-4B15-B64C-7B3E33F7669F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{436FF589-031E-4097-837D-5320CC861FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{436FF589-031E-4097-837D-5320CC861FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{436FF589-031E-4097-837D-5320CC861FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D0197C-358F-4B15-B64C-7B3E33F7669F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D0197C-358F-4B15-B64C-7B3E33F7669F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D0197C-358F-4B15-B64C-7B3E33F7669F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D0197C-358F-4B15-B64C-7B3E33F7669F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
