@@ -44,21 +44,21 @@ namespace _05._QuickSort
                 {
                     right -= 1;
                 }
+            }
 
-                Swap(numbers, pivot, right);
+            Swap(numbers, pivot, right);
 
-                var isLeftSubarraySmallerSize = right - 1 - startIndex < endIndex - (right + 1);
+            var isLeftSubarraySmallerSize = right - 1 - startIndex < endIndex - (right + 1);
 
-                if (isLeftSubarraySmallerSize)
-                {
-                    QuickSort(numbers, startIndex, right - 1);
-                    QuickSort(numbers, right + 1, endIndex);
-                }
-                else
-                {
-                    QuickSort(numbers, right + 1, endIndex);
-                    QuickSort(numbers, startIndex, right - 1);
-                }
+            if (isLeftSubarraySmallerSize)
+            {
+                QuickSort(numbers, startIndex, right - 1);
+                QuickSort(numbers, right + 1, endIndex);
+            }
+            else
+            {
+                QuickSort(numbers, right + 1, endIndex);
+                QuickSort(numbers, startIndex, right - 1);
             }
         }
 
