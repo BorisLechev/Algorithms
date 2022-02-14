@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Connected Components", "01. Connected Components\01. Connected Components.csproj", "{19DCAC30-6E63-4EEF-87D7-A4952098DA92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SourceRemovalTopologicalSorting", "02. SourceRemovalTopologicalSorting\02. SourceRemovalTopologicalSorting.csproj", "{BC31562A-0174-40F2-8618-201C10DD38EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{19DCAC30-6E63-4EEF-87D7-A4952098DA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19DCAC30-6E63-4EEF-87D7-A4952098DA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19DCAC30-6E63-4EEF-87D7-A4952098DA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC31562A-0174-40F2-8618-201C10DD38EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC31562A-0174-40F2-8618-201C10DD38EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC31562A-0174-40F2-8618-201C10DD38EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC31562A-0174-40F2-8618-201C10DD38EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
