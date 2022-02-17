@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Salaries", "04. Salarie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Salaries with Memoization", "04. Salaries with Memoization\04. Salaries with Memoization.csproj", "{DBCFCF46-8E41-4E82-8374-6C95CF5AAF9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Break Cycles", "05. Break Cycles\05. Break Cycles.csproj", "{8B6347B8-6424-42F9-AA50-C601DADC1717}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{DBCFCF46-8E41-4E82-8374-6C95CF5AAF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBCFCF46-8E41-4E82-8374-6C95CF5AAF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBCFCF46-8E41-4E82-8374-6C95CF5AAF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6347B8-6424-42F9-AA50-C601DADC1717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6347B8-6424-42F9-AA50-C601DADC1717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6347B8-6424-42F9-AA50-C601DADC1717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6347B8-6424-42F9-AA50-C601DADC1717}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
