@@ -23,6 +23,9 @@ namespace _04._Salaries
             Console.WriteLine(totalSalaries);
         }
 
+        // node
+        // regular employee - salary (1)
+        // manager - salary = sum of children salary
         private static int GetSalaryDFS(int node)
         {
             var children = graph[node];
